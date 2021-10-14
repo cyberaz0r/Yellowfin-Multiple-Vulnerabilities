@@ -3,7 +3,7 @@
 ## Table of contents:
 - [Stored Cross-Site Scripting in video embed functionality](#vulnerability-1-stored-xss)
 - [Insecure Direct Object Reference in MIAvatarImage.i4](#vulnerability-2-profile-pics-idor)
-- [Insecure Direct Object Reference in MIImage.i4](#vulnerability-2-profile-pics-idor)
+- [Insecure Direct Object Reference in MIImage.i4](#vulnerability-3-images-idor)
 
 
 
